@@ -1,0 +1,20 @@
+.api-textfield{
+    width: 50%;
+ 
+}
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+  }
+  .button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  .api-payload{
+   
+  }
